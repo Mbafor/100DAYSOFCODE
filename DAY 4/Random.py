@@ -18,7 +18,6 @@ country = ["English", "French", "Germany", "Ethopia"]
 print(country[0])
 print(country[-2])
 print(country)
-print(country[0,2])
 
 country[2] = "Brazil"
 country.append("Cameroon")
