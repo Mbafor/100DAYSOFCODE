@@ -14,6 +14,7 @@ for score in student_scores:
     sum += score
 print(sum)
 
+
 max_score = 0
 for score in student_scores:
     if score > max_score:
